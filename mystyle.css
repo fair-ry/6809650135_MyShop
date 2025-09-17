@@ -829,3 +829,244 @@ body.home{
             padding-right: 100px;
             border-radius: 50%;
         }
+
+        .imgdrink1{
+            width: 350px;
+            height: 300px;
+            margin-top: 10px;
+            border-radius: 20px;
+            margin-left: 20px;
+        }
+
+        .drink1{ 
+        width: 450px;
+        height: 500px;
+        margin-left: 10px;
+        margin-top: 80px;
+        border-radius: 20px;
+        }
+
+        .thaitea{
+            margin-top: 30px;
+            font-size: 30px;
+        }
+
+        .textthaitea{
+            color: black;
+            margin-top: 10px;
+        }
+
+        .imgdrink2{
+            width: 350px;
+            height: 300px;
+            margin-top: 10px;
+            border-radius: 20px;
+            margin-left: 20px;
+        }
+
+        .drink2{ 
+        width: 450px;
+        height: 550px;
+        margin-left: 10px;
+        margin-top: 40px;
+        border-radius: 20px;
+        margin-left: 500px;
+        margin-top: -545px;
+        }
+
+        .matcha{
+            margin-top: 20px;
+            font-size: 30px;
+        }
+
+        .textmatcha{
+            color: black;
+            margin-top: 10px;
+        }
+
+        .imgdrink3{
+            width: 350px;
+            height: 300px;
+            margin-top: 10px;
+            border-radius: 20px;
+            margin-left: 20px;
+        }
+
+        .drink3{ 
+        width: 450px;
+        height: 540px;
+        margin-left: 0px;
+        margin-top: 30px;
+        border-radius: 20px;
+        margin-left: 990px;
+        margin-top: -545px;
+        }
+
+        .chocolatefrappe{
+            color: black;
+            font-size: 30px;
+        }
+
+        .textchocolatefrappe{
+            color: black;
+        }
+
+        .imgdrink4{
+            width: 350px;
+            height:300px;
+            margin-top: 20px;
+            border-radius: 20px;
+            margin-left: 20px;
+        }
+
+
+        .drink4{ 
+        width: 450px;
+        height: 550px;
+        margin-left: 10px;
+        margin-top: 100px;
+        border-radius: 20px;
+        transform: translateY(15px); 
+        }
+
+        .lemonsoda{
+            font-size: 30px;
+        }
+
+        .textlemonsoda{
+            color: black;
+        }
+
+        .imgdrink5{
+            width: 350px;
+            height: 300px;
+            margin-top: 20px;
+            border-radius: 20px;
+            margin-left: 20px;
+        }
+
+        .drink5{ 
+        width: 450px;
+        height: 400px;
+        margin-left: 10px;
+        margin-top: 30px;
+        border-radius: 20px;
+        margin-left: 500px;
+        margin-top: -540px;
+        }
+
+        .latte{
+            color: black;
+            font-size: 30px;
+            
+        }
+
+        .textlatte{
+            color: black;
+        }
+
+        .imgdrink6{
+            width: 350px;
+            height: 300px;
+            margin-top: 10px;
+            border-radius: 20px;
+            margin-left: 20px;
+        }
+
+        .drink6{ 
+        width: 450px;
+        height: 550px;
+        margin-left: 0px;
+        margin-top: 30px;
+        border-radius: 20px;
+        margin-left: 990px;
+        margin-top: -550px;
+        }
+
+        .lemontea{
+            color: black;
+            font-size: 30px;
+        }
+
+        .textlemontea{
+            color: black;
+        }
+
+        .imgdrink7{
+            width: 350px;
+            height: 300px;
+            margin-top: 10px;
+            border-radius: 20px;
+            margin-left: 20px;
+        }
+
+        .drink7{ 
+        width: 450px;
+        height: 545px;
+        margin-left: 10px;
+        margin-top: 130px;
+        border-radius: 20px;
+        }
+
+        .strawberryfrapp{
+            color: black;
+            font-size: 30px;
+        }
+
+        .textstrawberryfrapp{
+            color: black;
+        }
+
+      .imgdrink8{
+            width: 350px;
+            height: 300px;
+            margin-top: 10px;
+            border-radius: 20px;
+            margin-left: 20px;
+        }
+
+        .drink8{ 
+        width: 450px;
+        height: 550px;
+        margin-left: 10px;
+        margin-top: 40px;
+        border-radius: 20px;
+        margin-left: 500px;
+        margin-top: -545px;
+        }
+
+        .espresso{
+            margin-top: 20px;
+            font-size: 30px;
+        }
+
+        .textespresso{
+            color: black;
+        }
+
+        .imgdrink9{
+            width: 350px;
+            height: 300px;
+            margin-top: 10px;
+            border-radius: 20px;
+            margin-left: 20px;
+        }
+
+        .drink9{ 
+        width: 450px;
+        height: 545px;
+        margin-left: 0px;
+        margin-top: 30px;
+        border-radius: 20px;
+        margin-left: 990px;
+        margin-top: -545px;
+        }
+
+        .orangeameriano{
+            color: black;
+            font-size: 30px;
+        }
+
+        .textorangeameriano{
+            color: black;
+        }
