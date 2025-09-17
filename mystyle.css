@@ -593,4 +593,162 @@ body.home{
             color: black;
         }
 
-        
+        .imgBakery4{
+            width: 350px;
+            height: 300px;
+            margin-top: 10px;
+            border-radius: 20px;
+            margin-left: 20px;
+        }
+
+        .Bakery4{ 
+        width: 450px;
+        height: 565px;
+        margin-left: 10px;
+        transform: translateY(20px); 
+        border-radius: 20px;
+        margin-top: 80px;
+        }
+
+        .millefeuille{
+            color: black;
+            font-size: 30px;
+        }
+
+        .textmillefeuille{
+            color: black;
+        }
+
+        .imgBakery5{
+            width: 350px;
+            height: 300px;
+            margin-top: 20px;
+            border-radius: 20px;
+            margin-left: 20px;
+        }
+
+        .Bakery5{ 
+        width: 450px;
+        height: 400px;
+        margin-left: 10px;
+        margin-top: 30px;
+        border-radius: 20px;
+        margin-left: 500px;
+        margin-top: -540px;
+        }
+
+        .bearcupcake{
+            color: black;
+            font-size: 30px;
+            
+        }
+
+        .textbearcupcake{
+            color: black;
+        }
+
+        .imgBakery6{
+            width: 350px;
+            height: 300px;
+            margin-top: 10px;
+            border-radius: 20px;
+            margin-left: 20px;
+        }
+
+        .Bakery6{ 
+        width: 450px;
+        height: 550px;
+        margin-left: 0px;
+        margin-top: 30px;
+        border-radius: 20px;
+        margin-left: 990px;
+        margin-top: -550px;
+        }
+
+        .berries{
+            color: black;
+            font-size: 30px;
+        }
+
+        .textberries{
+            color: black;
+        }
+
+        .imgBakery7{
+            width: 350px;
+            height: 300px;
+            margin-top: 10px;
+            border-radius: 20px;
+            margin-left: 20px;
+        }
+
+        .Bakery7{ 
+        width: 450px;
+        height: 545px;
+        margin-left: 10px;
+        margin-top: 130px;
+        border-radius: 20px;
+        }
+
+        .canale{
+            color: black;
+            font-size: 30px;
+        }
+
+        .textcanale{
+            color: black;
+        }
+
+      .imgBakery8{
+            width: 350px;
+            height: 300px;
+            margin-top: 10px;
+            border-radius: 20px;
+            margin-left: 20px;
+        }
+
+        .Bakery8{ 
+        width: 450px;
+        height: 550px;
+        margin-left: 10px;
+        margin-top: 40px;
+        border-radius: 20px;
+        margin-left: 500px;
+        margin-top: -545px;
+        }
+
+        .madeleine{
+            margin-top: 20px;
+            font-size: 30px;
+        }
+
+        .textmadeleine{
+            color: black;
+        }
+
+        .imgBakery9{
+            width: 350px;
+            height: 300px;
+            margin-top: 10px;
+            border-radius: 20px;
+            margin-left: 20px;
+        }
+
+        .Bakery9{ 
+        width: 450px;
+        height: 545px;
+        margin-left: 0px;
+        margin-top: 30px;
+        border-radius: 20px;
+        margin-left: 990px;
+        margin-top: -545px;
+        }
+
+        .croissant{
+            color: black;
+            font-size: 30px;
+        }
+
+        .textcroissant{
+            color: black;
+        }
