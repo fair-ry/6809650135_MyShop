@@ -1,0 +1,429 @@
+@import url(https://fonts.googleapis.com/css2?family=Ribeye&display=swap);
+@import url(https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap);
+@import url(https://fonts.googleapis.com/css2?family=Merriweather:ital,opsz,wght@0,18..144,300..900;1,18..144,300..900&display=swap);
+body.home{
+            background-color: rgb(53, 31, 11);
+            background-size: cover;
+            padding: 20px;
+            margin: 0;
+            min-height: 100vh;
+        }
+        .main{
+            display: inline-block;
+            padding: 8px 16px;
+            color: rgb(255, 254, 254);
+            text-emphasis: none;
+            border-radius: 5px;
+            margin-left: 910px;
+            font-size: 21px;
+        }
+        .main:hover{
+            background-color: rgb(172, 110, 86);
+        }
+
+        .secondary{
+             display: inline-block;
+            padding: 8px 16px;
+            color: rgb(255, 254, 254);
+            text-emphasis: none;
+            border-radius: 5px;
+            margin-left: 1110px;
+            font-size: 21px;
+            transform: translateY(-40px);   
+        }
+        .secondary:hover{
+            background-color: rgb(172, 110, 86);
+        }
+
+        .water{
+             display: inline-block;
+            padding: 8px 16px;
+            color: rgb(255, 254, 254);
+            text-emphasis: none;
+            border-radius: 5px;
+            margin-left: 1340px;
+            font-size: 21px;
+            transform: translateY(-80px);   
+        }
+        .water:hover{
+            background-color: rgb(172, 110, 86);
+        }
+
+        h1{
+            color: aliceblue;
+            font-size: 47px;
+            font-family: Ribeye;
+            margin-top: -90px;
+        }
+
+        h2{
+            color: aliceblue;
+            font-size: 30px;
+            font-weight: 1000;
+            margin-top: -25px;
+        }
+
+        h3{
+            color: rgb(53, 31, 11);
+            font-size: 30px;
+            margin-top: -350px;
+            margin-left: 700px;
+            font-size: 17px;
+        }
+
+        .here{
+            color: rgb(21, 24, 26);
+            margin-left: 580px;
+            margin-top: 305px;
+            font-size: 14px;
+        }
+
+        .article{
+            color: aliceblue;
+            font-size: 16px;
+            font-family: Roboto;
+            margin-top: -110px;
+        }
+
+        .btn{
+            display: inline-block;
+            padding: 8px 16px;
+            background-color: rgb(232, 213, 197);
+            color: rgb(96, 54, 18);
+            text-decoration: none;
+            border-radius: 5px;
+        }
+        .btn:hover{
+            background-color: aliceblue;
+        }
+
+        .foods{
+            display: inline-block;
+            padding: 8px 16px;
+            background-color: rgb(232, 213, 197);
+            color: rgb(96, 54, 18);
+            text-decoration: none;
+            border-radius: 5px;
+            transform: translateY(-50px);  
+            margin-left: 130px;
+        }
+        .foods:hover{
+            background-color: aliceblue;
+            padding: -20px;
+        }
+
+        footer{
+            background-color: rgb(200, 172, 151);
+            color: rgb(52, 30, 8);
+            text-align: center;
+            padding: 15px;
+            margin-top: 40px;
+
+        }
+
+        footer a{
+            color: rgb(52, 30, 8);
+            text-decoration: none;
+        }
+
+        footer a:hover{
+            text-decoration: underline;
+        }
+
+       .gallery{
+        display: flex;
+        justify-content: flex-end;
+        gap: 5px;
+        margin-top: -100px;
+        margin-left: 30px;
+        
+       }
+
+       .gallery img{
+        width: 200px;
+        height: 200px;
+        object-fit:cover
+       }
+
+       #cake{
+        width: 250px;
+        height: 250px;
+        margin-left: 20px;
+        border-radius: 15px;
+       } 
+
+       .box{
+        border-collapse: collapse;
+        border-radius: 10px;
+        margin-top: 30px;
+        width: 500px;
+        height: 300px;
+        border-collapse: separate;
+        border-radius: 20px;
+        overflow: hidden;
+        border-collapse: collapse;
+        display: flex;
+        box-shadow: 5px 5px 15px 5px #682525;
+       }
+
+       ul li{
+        margin-bottom: 10px;
+        font-family: Roboto;
+       }
+
+       video{
+        margin-left: 570px;
+        margin-top: -300px;
+       }
+
+       .vdo{
+        width: 320px;
+        height: 360px;
+        margin-left: 560px;
+        margin-top: -330px;
+        border-radius: 20px;
+        box-shadow: 5px 5px 15px 5px #682525;
+       }
+
+       h4{
+        color: aliceblue;
+        font-size: 20px;
+        margin-left: 950px;
+        margin-top: -375px;
+       }
+
+       .day{
+        color: aliceblue;
+        margin-left: 930px;
+        margin-top: -10px;
+        font-size: 15px;
+       }
+
+       h5{
+        color: aliceblue;
+        margin-left: 1200px;
+        font-size: 21px;
+        margin-top: -110px;
+       }
+
+       .review{
+        color: aliceblue;
+        margin-left: 1200px;
+        margin-top: -20px;
+        font-family: Roboto;
+        font-size: 15px;
+       }
+
+       h6{
+       color: aliceblue;
+       font-size: 22px;
+       margin-left: 960px;
+       margin-top: -20px;
+       }
+
+       .price{
+       color: aliceblue;
+       margin-top: -40px;
+       margin-left: 960px;
+       font-size: 15px;
+       font-family: Roboto;
+       }
+
+       h7{
+       color: aliceblue;
+       font-size: 23px;
+       margin-left: 960px;
+       margin-top: 60px;
+       }
+
+       .best{
+       color: aliceblue;
+       font-size: 15px;
+       margin-left: 940px;
+       
+       }
+
+       meter{
+        width: 200px;
+        height: 20px;
+        color: aliceblue;
+        margin-left: 1200px;
+        margin-top: -100px;
+       }
+
+       p{
+        color: aliceblue;
+       }
+
+       .cation{
+        color: aliceblue;
+        font-size: 24px;
+        margin-left: 1195px;
+        margin-top: -170px;
+       }
+    
+       .lo{
+        margin-left: 1210px;
+        margin-top: -10px;
+        font-family: Roboto;
+        font-size: 15px;
+       } 
+
+       .menu{
+            color: aliceblue;
+            font-size: 25px;
+            margin-left: 710px;
+            margin-top: 60px;
+        }
+
+        .photo{
+            display: flex;
+            justify-content: flex-end;
+            gap: 30px;
+            margin-right: 35px;
+        }
+
+        .photo img{
+            width: 150px;
+            height: 150px;
+            object-fit: cover;
+            border-radius: 15px;
+            margin-top: 0px;
+        }
+
+        .ul{
+            display: flex;
+            justify-content: flex-end;
+            gap:70px;
+            color: aliceblue;
+            font-size: 14px;
+            margin-right: 90px;
+        }
+
+        .drink{
+            display: flex;
+            justify-content: flex-end;
+            gap: 30px;
+            margin-right: 35px;
+        }
+
+        .drink img{
+            width: 150px;
+            height: 150px;
+            object-fit: cover;
+            border-radius: 15px;
+            margin-top: 40px;
+        }
+
+        .li{
+            display: flex;
+            justify-content: flex-end;
+            gap:70px;
+            color: aliceblue;
+            font-size: 14px;
+            margin-right: 50px;
+        }
+
+        .motion{
+            color: aliceblue;
+            font-size: 60px;
+            width: 1500px;
+            height: 200px;
+            background-image:url('resources/french\ bakery.jpg');
+            background-size: cover;
+            background-position: center;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            font-weight: bold;
+            text-shadow: 1px 1px 3px ;
+        }
+
+        .desserts{
+            color: aliceblue;
+            font-size: 30px;
+            margin-top: 50px;
+            font-family: Ribeye;
+        }
+
+        .imgpung1{
+            width: 350px;
+            height: 300px;
+            margin-top: 10px;
+            border-radius: 20px;
+            margin-left: 20px;
+        }
+
+        .pung1{ 
+        width: 450px;
+        height: 500px;
+        margin-left: 10px;
+        margin-top: 30px;
+        border-radius: 20px;
+        }
+
+        .quality{
+            color: black;
+            font-size: 30px;
+            
+        }
+
+        .textqualit{
+            color: black;
+        }
+
+        .imgpung2{
+            width: 350px;
+            height: 300px;
+            margin-top: 10px;
+            border-radius: 20px;
+            margin-left: 20px;
+        }
+
+        .pung2{ 
+        width: 450px;
+        height: 500px;
+        margin-left: 10px;
+        margin-top: 40px;
+        border-radius: 20px;
+        margin-left: 500px;
+        margin-top: -530px;
+        }
+
+        .healthy{
+            color: black;
+            font-size: 30px;
+            
+        }
+
+        .texthealthy{
+            color: black;
+        }
+
+        .imgpung3{
+            width: 350px;
+            height: 300px;
+            margin-top: 10px;
+            border-radius: 20px;
+            margin-left: 20px;
+        }
+
+        .pung3{ 
+        width: 450px;
+        height: 500px;
+        margin-left: 0px;
+        margin-top: 30px;
+        border-radius: 20px;
+        margin-left: 990px;
+        margin-top: -530px;
+        }
+
+        .variety{
+            color: black;
+            font-size: 30px;
+            
+        }
+
+         .textvariety{
+            color: black;
+        }
